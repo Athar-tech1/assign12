@@ -1,0 +1,19 @@
+.ma{
+    border: 1px solid rgb(240, 230, 230);
+    display: inline-block;
+}
+.a{
+background-color: #d72427;
+height: 60px;
+width: 250px;
+}
+.b{
+background-color: #ffffff;
+height: 60px;
+width: 250px;
+}
+.c{
+    background-color: #d72427;
+    height: 60px;
+    width: 250px;
+}
